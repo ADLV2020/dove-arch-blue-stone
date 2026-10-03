@@ -1,0 +1,7 @@
+{
+  "title": "Mesa Fibo",
+  "type": "x:game",
+  "card": "custom",
+  "color": "0b1210",
+  "description": "Planning poker en equipo. Entrad a una sala, votad historias con cartas Fibonacci y revelad juntos."
+}

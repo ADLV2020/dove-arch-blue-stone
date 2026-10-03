@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mesa Fibo",
+      "hasCanvas": false,
+      "bodyTextLen": 600,
+      "bodyTextHash": "a43129855f805b12f265ce522ea3e1c636b2f8f852ee9ad7afed0c6e111b532c",
+      "bodyTextPrefix": "Mesa Fibo PLANNING POKER Vota historias con cartas Fibonacci. Cr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mesa Fibo",
+      "hasCanvas": false,
+      "bodyTextLen": 600,
+      "bodyTextHash": "a43129855f805b12f265ce522ea3e1c636b2f8f852ee9ad7afed0c6e111b532c",
+      "bodyTextPrefix": "Mesa Fibo PLANNING POKER Vota historias con cartas Fibonacci. Cr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

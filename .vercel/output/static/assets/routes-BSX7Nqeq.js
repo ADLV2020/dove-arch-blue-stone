@@ -1,0 +1,1 @@
+import{f as e}from"./poker--wY-BSZi.js";import{n as t}from"./lobby-B8Oe46hW.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
